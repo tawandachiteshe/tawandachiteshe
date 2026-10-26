@@ -1,65 +1,39 @@
-<h3 align="center">  Hi there! I'm Tawanda Chiteshe </h3>
+## Tawanda Chiteshe
 
+**Full-stack and systems engineer · Go, Rust, TypeScript, Kotlin · Harare, Zimbabwe (UTC+2)**
 
-![](https://visitor-badge.laobi.icu/badge?page_id=tawandachiteshe.tawandachiteshe)
-[![Github](https://img.shields.io/github/followers/tawandachiteshe?label=Follow&style=social)](https://github.com/tawandachiteshe)
+I build the backends and apps businesses run on: multi-tenant SaaS, offline-first point-of-sale,
+GIS and satellite-imagery APIs, and web portals with OCR and auth built in. Off the clock I write
+game engines, emulators and audio synthesizers, so I'm comfortable going down to the metal when a
+problem needs it.
 
--------------------------------
+🌐 **Portfolio:** [tawandachiteshe.github.io](https://tawandachiteshe.github.io)
 
-<h3 align="center"> I'm a self taught full stack/game developer from Republic of Zimbabwe 🇿🇼 </h3>
+### Now
 
-------------------
+- **[Nerd Zero](https://github.com/nerd-zero)**: building listnun, a multi-tenant newsletter platform (Go, React),
+  and Homwe POS, an offline-first point of sale (Rust, Tauri). I deployed listnun to Kubernetes
+  (k3s, Flux CD), manage the shared PostgreSQL cluster and set up OpenBao for secrets.
+- **Runhare** (since 2023): an interactive e-learning platform with tutor and learner dashboards,
+  built with Quarkus (Java) and Next.js.
+- Studying for a Diploma in Software Engineering at TCFL.
 
-## about me
+### Projects
 
-- 🔭 I’m currently working on an interactive e-learning solution (https://runhare.org).
-- 🌱 I’m currently learning game development and 3D modelling.
-- 👯 I’m looking to collaborate on with anyone on any project (preferably game development).
-- 💬 Ask me about anything to do with programming and computer graphics.
-- ⚡ Fun fact: I love watching anime and playing video games.
+| Project | Tech | What it shows |
+|---|---|---|
+| [school-portal](https://github.com/tawandachiteshe/school-portal) | React, Vite, FastAPI, PostgreSQL | Turns paper college admissions into an online flow: OCR reads exam certificates, validates national IDs, plus an AI assistant scoped to each student's data |
+| [coinage](https://github.com/tawandachiteshe/coinage) | Kotlin Multiplatform, Compose, Ktor, SQLDelight | Local-first finance tracker from one codebase on Android, iOS, desktop and web, with receipt parsing and biometric lock |
+| [poshto-spot-server](https://github.com/tawandachiteshe/poshto-spot-server) | NestJS, Prisma, FreeRADIUS, Docker | Backend for paid Wi-Fi hotspots: vouchers, RADIUS auth and session tracking, paired with a [captive portal](https://captive-portal-delta.vercel.app) |
+| [mbirasyth](https://github.com/tawandachiteshe/mbirasyth) | Rust, DSP | Sample-free Shona mbira synthesizer and procedural composer for games |
+| [crust-6502-emulator](https://github.com/tawandachiteshe/crust-6502-emulator) | Rust | Emulator for the MOS 6502 CPU |
+| [cuboid](https://github.com/tawandachiteshe/cuboid) | C++, OpenGL, Lua, EnTT | Game engine and editor built to run on low-end hardware |
 
+**Also into:** graphics and game dev: a [Metal renderer](https://github.com/tawandachiteshe/metal-toyrenderer), OpenGL/Vulkan experiments and a from-scratch [linear algebra library](https://github.com/tawandachiteshe/FasterMatrixLibrary) and [neural network](https://github.com/tawandachiteshe/multiLayeredPerceptron).
 
-## 📝 Find me on:
+### Contact
 
-<p align="center">
- <a href="linkedin.com/in/tawanda-chiteshe-93114219a" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:dickenstawanda@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+Open to remote work and freelance projects.
 
-## projects
-
-| Index | Project | Tech Used |
-|:------:|:-----------------:|:------:|
-|   1  |[Cuboid Game Engine](https://github.com/tawandachiteshe/cuboid)| C++, HLSL, GLSL |
-|   2  |[Crypto.jfx (GUI)](https://github.com/tawandachiteshe/crypto.jfx)| Java|
-|   3  |[MyForeCast.io (GUI)](https://github.com/tawandachiteshe/MyForeCast.io)| Java |
-|   4  |[Multi Layered Neural Network](https://github.com/tawandachiteshe/FasterMatrixLibrary)| C++ |
-|   5  |[Metal Toy Renderer](https://github.com/tawandachiteshe/metal-toyrenderer)| Objective-C, Objective-C++, C++, Metal |
-|   6  |[E-sports Tournament Scoreboard](https://github.com/tawandachiteshe/esports-scoreboard-jfx)| Java |
-
-------------------
-## 🧰 languages and tools:
---------------------------
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-
----------------------
-
-### 🏆 My GitHub Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tawandachiteshe&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawandachiteshe&theme=tokyonight)
-
+- Email: [dickenstawanda@gmail.com](mailto:dickenstawanda@gmail.com)
+- LinkedIn: [tawanda-chiteshe-93114219a](https://www.linkedin.com/in/tawanda-chiteshe-93114219a)
