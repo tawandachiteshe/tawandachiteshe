@@ -36,4 +36,4 @@ problem needs it.
 Open to remote work and freelance projects.
 
 - Email: [dickenstawanda@gmail.com](mailto:dickenstawanda@gmail.com)
-- LinkedIn: [tawanda-chiteshe-93114219a](https://www.linkedin.com/in/tawanda-chiteshe-93114219a)
+- LinkedIn: [tawanda-chiteshe](https://www.linkedin.com/in/tawanda-chiteshe)
